@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\coding\Atmega16 switch_lamp\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\coding\Atmega16 switch_lamp\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\coding\Atmega16 switch_lamp\Debug\Atmega16 switch_lamp.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Atmega16 switch_lamp.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Atmega16 switch_lamp.map</FILE>
+  <FILE>Atmega16 switch_lamp.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>119</LINE></Reset>
+  <RX_OK><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>96</LINE></RX_OK>
+  <Rx_Exit><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>111</LINE></Rx_Exit>
+  <RAM_Flush><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>126</LINE></RAM_Flush>
+  <Flush><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>129</LINE></Flush>
+  <uart_init><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>151</LINE></uart_init>
+  <Proga><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>196</LINE></Proga>
+  <uart_snt><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>215</LINE></uart_snt>
+  <Press_key><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>224</LINE></Press_key>
+  <Delay><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>255</LINE></Delay>
+  <Reset_count><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>238</LINE></Reset_count>
+  <Switch><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>231</LINE></Switch>
+  <Lamp1><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>243</LINE></Lamp1>
+  <Lamp2><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>247</LINE></Lamp2>
+  <Lamp3><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>251</LINE></Lamp3>
+  <PDelay><FILE>C:\coding\Atmega16 switch_lamp\main.asm</FILE><LINE>258</LINE></PDelay>
+ </LABELS>
+</ASSEMBLER_INFO>
